@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/huzain2.github.io/test/static/css/main.257d2d7b.css",
-    "main.js": "/huzain2.github.io/test/static/js/main.0a53b59e.js",
+    "main.js": "/huzain2.github.io/test/static/js/main.4fb6a320.js",
     "static/media/bg.png": "/huzain2.github.io/test/static/media/bg.3920461de393e6771200.png",
     "index.html": "/huzain2.github.io/test/index.html",
     "main.257d2d7b.css.map": "/huzain2.github.io/test/static/css/main.257d2d7b.css.map",
-    "main.0a53b59e.js.map": "/huzain2.github.io/test/static/js/main.0a53b59e.js.map"
+    "main.4fb6a320.js.map": "/huzain2.github.io/test/static/js/main.4fb6a320.js.map"
   },
   "entrypoints": [
     "static/css/main.257d2d7b.css",
-    "static/js/main.0a53b59e.js"
+    "static/js/main.4fb6a320.js"
   ]
 }
